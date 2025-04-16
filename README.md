@@ -30,9 +30,6 @@ The **Healthcare Appointment Scheduling System** is a web-based application desi
 - Worked on **frontend-backend integration** using **AJAX for seamless user experience**.
 - Understood the impact of **load balancing and query optimization** in a **high-traffic environment**.
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it!
-
 ## 📩 Contact
 For any queries or contributions, feel free to reach out:
 - **GitHub:** https://github.com/Dharmik0712
